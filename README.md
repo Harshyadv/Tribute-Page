@@ -2,6 +2,8 @@
 
 A simple tribute page dedicated to the legendary RPG franchise Shin Megami Tensei, created as part of the freeCodeCamp Responsive Web Design course.
 
+You can visit the page [here](https://harshyadv.github.io/Tribute-Page/)
+
 ## About
 
 This project fulfills the requirements for the Tribute Page project in the freeCodeCamp curriculum. Built with only HTML and CSS, it serves as a showcase of basic web design skills and pays homage to one of gaming’s most influential series.
